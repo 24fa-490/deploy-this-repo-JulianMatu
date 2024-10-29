@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-julian-matu-4wb1z2rop-julianmatus-projects.vercel.app
+https://deploy-this-repo-julian-matu.vercel.app
 
 
